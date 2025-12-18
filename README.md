@@ -13,4 +13,4 @@ Performed a vulnerability assessment on *OWASP Juice Shop* to identify security 
 * *Injection:* Identified SQL Injection vulnerabilities.
 * *Broken Access Control:* Found unauthorized data exposure.
 * *XSS:* Verified Cross-Site Scripting flaws.
-*
+
