@@ -1,5 +1,5 @@
 # Task1
-...existing code...
+
 ## Project overview
 
 In this hands-on cybersecurity internship project you will perform a vulnerability assessment of a real-world or open-source web application. The goal is to identify security flaws using ethical tools and OWASP standards and compile a professional Security Assessment Report.
@@ -44,4 +44,4 @@ docker run --rm -v $(pwd):/zap/wrk/:rw owasp/zap2docker-stable zap-baseline.py -
 - Pick a target app to test and add setup instructions to this README.
 - Save captured evidence and start a findings document (Google Docs / Word).
 
-...existing code...
+
