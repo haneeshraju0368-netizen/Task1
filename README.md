@@ -2,9 +2,9 @@
 
 ## Project overview
 
-In this hands-on cybersecurity internship project you will perform a vulnerability assessment of a real-world or open-source web application. The goal is to identify security flaws using ethical tools and OWASP standards and compile a professional Security Assessment Report.
+In this hands-on cybersecurity internship project i will perform a vulnerability assessment of a real-world or open-source web application. The goal is to identify security flaws using ethical tools and OWASP standards and compile a professional Security Assessment Report.
 
-## What you will do
+## What i will do
 - Set up and explore a test web app (e.g., OWASP Juice Shop, DVWA)
 - Use scanners: OWASP ZAP, Burp Suite, Nikto
 - Test for common vulnerabilities (SQLi, XSS, CSRF, etc.)
